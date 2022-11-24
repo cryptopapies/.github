@@ -2,7 +2,7 @@
 
 Hi there, and let me introduce you to **Cryptopapies**!
 The NFT project which praises the rich man mindset.
-Made up of 7777 pixelated "CryptoPapies", based on some of the most famous crypto gurus. Check out our whitepaper here <https://whitepaper.cryptopapies.io/>
+Made up of 7777 pixelated "CryptoPapies", based on some of the most famous crypto gurus. Check out our whitepaper here <https://cryptopapies.io/#/whitepaper>
 
 
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/cryptopapies)
